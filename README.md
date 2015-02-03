@@ -1,2 +1,3 @@
-# ab2015-python-oyun
-ab2015-python-oyun
+# AB2015 Python ile Oyun Programlamaya Giriş Kursu
+
+Örnekler kodlar.
